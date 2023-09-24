@@ -13,11 +13,11 @@ Från 1100-talets slut blir istället universiteten runt i Europa hemvist för d
 
 ## Augustinus
 
-![augustinus](https://upload.wikimedia.org/wikipedia/commons/a/ac/Saint_Augustine_Portrait.jpg)
+![augustinus](https://upload.wikimedia.org/wikipedia/commons/a/ac/Saint_Augustine_Portrait.jpg){:.centered }
 
 _”Bekännelser”_ är förmodligen en av litteraturhistoriens första självbiografier. Men denna bok är mer än så, den är också en studie i det mänskliga psyket och består även av djupa reflektioner över gud och tid bl.a. Boken börjar med att beskriva **Augustinus (354 – 430 e.Kr)** som spädbarn i Thagaste i Nordafrika. Augustinus var djupt troende kristen och bekände sig till läran om arvsynden, som lär ut att människan är född att ärva Adams synd mot gud. Sålunda redogör han för hur själviska och krävande hans tidiga uttryck som spädbarn var. Med en försonlig stränghet betraktar han nästan alla människans uttryck som egoistiska och är därmed mycket kritisk mot sig själv, även som spädbarn. Som 17-åring reste han till Kartago för att studera juridik och där möter den unge Augustinus den jordiska kärleken. Vid sidan av sina studier beskriver han hur han börjar hänge sig åt sexuella begär. Men efter att studerat Plotinos blir Augustinus fängslad av dessa ideér och börjar studera nyplatonismen med en mycket stor iver. Han kopplar snart ”Logos” med de kristnas gud och snart antar han kristendomen som religion, som även hade varit hans högt vördade mors religion. Hans mor, Sankta Monica blev senare helgonförklarad och staden Sankta Monica i USA är uppkallad efter henne.
 
-![augustinus_och_monica](https://upload.wikimedia.org/wikipedia/commons/9/98/Saint_Augustine_and_Saint_Monica.jpg)
+![augustinus_och_monica](https://upload.wikimedia.org/wikipedia/commons/9/98/Saint_Augustine_and_Saint_Monica.jpg){:.centered }
 
 #### Arvsynd och predestinationsläran
 
