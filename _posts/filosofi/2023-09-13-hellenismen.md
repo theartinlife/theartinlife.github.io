@@ -7,7 +7,15 @@ comments: true
 author: Patrik Nygren
 ---
 
+![alexander-den-stora](https://upload.wikimedia.org/wikipedia/commons/c/cb/AlexanderTheGreat_Bust.jpg){:.fixed-size }
+
+##### _(Byst av Alexander den store, från British Museum)_
+
 **Hellenismen (300 – 30 f.Kr)** kallas den epok när grekisk kultur exporterades över världen till följd av Alexander den stores erövringar. **Alexander den store (356 – 323 f.Kr)** var makedonier och var som sådan starkt präglad av grekisk kultur. Med Alexander den stores allt större landvinningar behövdes naturligtvis en mer omfattande kontrollapparat för att kunna administrera det stora riket. De provinsiella självstyrande stadsstaterna med sina Polis offrades till förmån för ett mer centraliserat styre. Även om stadsstatens era numera var förbi blomstrade dock grekisk kultur i övrigt och spreds runt i världen.
+
+![alexander-den-stores-välde](https://upload.wikimedia.org/wikipedia/commons/4/40/MacedonEmpire.jpg)
+
+##### _(Karta över Alexander den stores rike)_
 
 Eftersom den helleninistiska perioden innebar stora politiska omvälvningar för antikens människor och flera oliktänkande kulturers samlevnad skiftade filosofins fokus. Frågorna började röra sig mot det etiska planet. Den centrala frågan löd: Hur lever man ett lyckligt liv i en värld full av social oro och ombytlighet? _Ataraxi_, sinneslugn, var det tillstånd som filosoferna efterfrågade. Platons och Aristoteles teoretiska och systematiska funderingar lämnades därhän och de vetenskaper som bl.a Aristoteles hade lagt grunden för hade brutit sig loss från filosofin och bedrevs nu självständigt av dedikerade vetenskapsmän. Olika mer eller mindre framgångsrika försök att presentera och argumentera för en viss livsåskådning gjordes av flera olika filosofer. Ur dessa nya åskådningar bildades nya rivaliserande skolor. De mest betydande av dessa var; _stoicismen_, _epikurismen_, _skepticismen_ och _nyplatonismen_.
 
@@ -15,7 +23,9 @@ Personligen känner jag att stoicismen och nyplatonismen har varit de mest givan
 
 ## Stoicismen
 
-![zenon](https://upload.wikimedia.org/wikipedia/commons/4/41/Zeno_of_Citium_pushkin.jpg){:.centered }
+![zenon](https://upload.wikimedia.org/wikipedia/commons/9/98/Zeno_of_Citium%2C_drawing.jpg){:.fixed-size }
+
+##### _(Engravering föreställande Zenon från Citium, okänt ursprung)_
 
 _Stoicismen_ grundades av **Zenon (omkring 336 – 264 f.Kr)**. Zenon var en lärljunge till kynikern Krates. _Kynikerna_ var arvtagare till Sokrates och betraktade behovslösheten och det dygdiga levnadssättet som den sanna vägen till lycka. Men kynikerna bedrev egentligen aldrig någon regelrätt filosofi utan ville snarare förmedla en livsåskådning och likande mest av allt en sekt. De drog Sokrates lära till sin spets och levde nästintill som asketer. Om _Diogenes_, en av kynismens färgstarkaste karaktärer, berättas att han gick så långt att han levde som en hund ute på gatan. Kynikerna motiverade sin renlevnadslära som ett liv i överensstämmelse med naturen. Naturen hade gett oss förståndet för att vi med hjälp av den skulle sträva efter att anpassa vårt liv efter naturen. Att förstå naturens ordning var därför av yttersta vikt om vi skulle förstå hur vi skulle leva i enlighet med denna ordning. Det finns bland flera en historia om hur Diogenes ska ha onanerat offentligt och menat att om alla lika enkelt kunde gnida sin mage för att mätta sin hunger skulle också alla göra det, så masturbation borde därför vara något naturligt och skamlöst. Kynikerna ifrågasatte alla konventioner och använde alltid naturen som sitt rättesnöre. Zenon bröt sig så småningom loss från kynikerna och utvecklade en egna skola. Sina föreläsningar höll han oftast i Aten nära kolonnaderna (stoa) som fanns där, vilket också blev ursprunget till skolans namn. I linje med sitt kyniska arv betraktade stoikerna dygden och behovslösheten som den sanna vägen till bestående lycka. Om rikedom eller annan framgång bidrog till en människas lycka berodde det bara på tillfälliga omständigheter som snabbt kunde förändras, därför som garant för sann lycka förblev dygden den enda vägen.
 
@@ -96,7 +106,9 @@ Denna kosmologi förklarar dessutom varför fatalismen var en så viktig del i s
 
 > ”Ödet den villige leder, drager den som ej vill”.
 
-![chrysippos](https://upload.wikimedia.org/wikipedia/commons/a/a6/Chrysippos_BM_1846.jpg){:.centered }
+![chrysippos](https://upload.wikimedia.org/wikipedia/commons/a/a6/Chrysippos_BM_1846.jpg){:.fixed-size }
+
+##### _(Chrysippos från Sofi, okänt ursprung, ca 300 f.Kr)_
 
 **Chrysippos (279 – 206 f.Kr)**, en av Zenons direkta lärljungar, presenterade ett analystiskt resonemang för att förklara naturens determinism. Han utgick från den hypotetiska premissen att bara om rörelser har en orsak kan utsagor vara sanna eller falska. Detta gäller om man betänker att det bara är då orsaker finns som det finns grund för att bedöma en utsagas sanningshalt. Utan en orsak för något, som exempelvis solen som orsak för dagens ljus kan vi inte heller med säkerhet påstå något, som att det är ljust, utan allt är då bara slumpmässiga sammanträffanden. Ett inbilskt påstående om något kan i samma stund vändas till sin motsats. T.o.m själva påståendet att det är ljust fallerar dessutom logiskt då det heller inte finns en orsak att säga det, och ännu mindre skäl att tro det. Men eftersom utsagor alltid är antingen sanna eller falska så måste också varje rörelse ha en orsak. Och om varje rörelse har en orsak, så är också dess verkan förutbestämd. Ödet måste alltså finnas, enligt Chrysippos.
 
@@ -128,7 +140,9 @@ Eftersom stoikerna menade att själen skulle härska över kroppen var självbeh
 
 ## Epikurismen
 
-![epikurus](https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg){:.centered }
+![epikurus](https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg){:.fixed-size }
+
+##### _(Romersk kopia av byst föreställande Epikurus, okänt ursprung, ca 300 f.Kr)_
 
 **Epikurus (omkring 341 – 270 f.Kr)** grundade denna skola och gav den dess namn. Epikuriéerna har många likheter med _kyrenaikerna_ som såg lusten som livets syfte och den naturliga vägen för att uppnå lycka. Enligt kyrenaikerna var därmed livskonsten enkel; att söka lusten och undvika det smärtsamma. Epikurismen skiljer sig dock från den kyrenaiska skolan i det avseendet att den sätter större vikt vid den själsliga lusten än vid den kroppsliga. Sinnesfrid var särskilt viktig för människan om hon skulle kunna vara lycklig eftersom oro skapar själslig smärta.
 
@@ -156,7 +170,9 @@ Epikurus menade att oron var ett påfund som härrörde från människans felakt
 
 ## Skepticismen
 
-![pyrrhon](https://upload.wikimedia.org/wikipedia/commons/a/aa/Pyrrho_in_Thomas_Stanley_History_of_Philosophy.jpg){:.centered }
+![pyrrhon](https://upload.wikimedia.org/wikipedia/commons/a/aa/Pyrrho_in_Thomas_Stanley_History_of_Philosophy.jpg){:.fixed-size }
+
+##### _(Pyrrho, Thomas Stanley, 1655)_
 
 **Pyrrhon (omkring 365 – 275 f.Kr)** brukar anges som skepticismens upphovsman. Skeptikernas lära gick till stor del ut på att ifrågasätta säkerheten hos vår kunskap. Både Sofisterna och Sokrates kan betraktas som föregångare till skepticismen. Liksom sina föregångare utgick skeptikerna från att fullständigt säker kunskap var omöjlig att erhålla, men till skillnad från dem tog de implikationerna av detta på ett större allvar. Utifrån en etisk synpunkt menade de att människan pga av sitt bristfälliga omdöme helt enkelt borde avstå från att fälla omdömen alls. Genom en ”suspension av omdömet” skulle människan uppnå sinneslugn, enligt skeptikerna.
 
@@ -210,7 +226,9 @@ Om orsaken finns behöver den antingen finnas före resultatet, samtidigt som re
 
 ## Nyplatonismen
 
-![plotinos](https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg){:.centered }
+![plotinos](https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg){:.fixed-size }
+
+##### _(Byst troligen föreställande Plotinos, okänt ursprung)_
 
 Från slutet av 200-talet e.Kr. fram till antikens slut på 500-talet tar filosofin en ny vändning. Nu blir religionen viktigare i samhället. I filosofin får därför mystiken och det transcendentala en framträdande roll och Platons idélära, som alltid låg mystiken nära, får en renässans. Romaren **Plotinos (omkr. 204 – 270 e.Kr.)** brukar namnges som förgrundsgestalt för denna rörelse mot det transcendentala. Han var starkt påverkad av Platons dialoger, men hade även influerats av persisk, judisk och indisk filosofi. Han menade att även Platon hade läst denna esoteriska filosofi då han hos Platon såg tecken på influenser från dessa. Det är oklart exakt när och var Plotinos var född eftersom han inte gärna delade med sig av den informationen då han fann den irrelevant. För Plotinos var kroppen och dess fysiska attribut en belastning som band honom till den materiella världen. Det sägs att han t.o.m skämdes över att ha en kropp och ville aldrig låta sig avporträtteras. Till en vän som försökte övertala honom till detta sa han
 

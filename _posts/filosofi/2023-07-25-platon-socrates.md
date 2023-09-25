@@ -11,7 +11,9 @@ Det här är andra delen i en artikelserie över filosofihistorien. Här vänder
 
 ## Sokrates och barnmorskekonsten
 
-![socrates](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg){:.centered }
+![socrates](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg){:.fixed-size }
+
+##### _(Byst av Sokrates, av romersk ursprung från ca 0-talet)_
 
 Man kan säga att med **Sokrates (470 - 399 f.Kr)** vände sig filosofin från naturen till moralen och politiken. Sokrates beskrev sin metod för att framställa kunskap som _barnmorskekonst_, vilken bestod i att ställa filosofiska frågor om olika begrepp som _”Vad är skönhet?”_ och _”Vad är godhet?”_ till någon som ansåg sig ha svaren på dessa frågor för att sedan genom att fortsätta ställa mer avgränsande frågor pröva dennes definition och så småningom om den var felaktig omkullkasta den eller om den var bärkraftig vidareutveckla den. Men någon kunskap själv om dessa begrepp hävdade sig Sokrates aldrig ha ägt utan menade sig bara ha besuttit förmågan att avgöra om ett resonemang var riktigt eller inte.
 
@@ -23,7 +25,9 @@ Känd är även Sokrates för att ha praktiserat sin filosofi inte bara spekuler
 
 ## Platons dialoger och liv
 
-![platon](https://upload.wikimedia.org/wikipedia/commons/7/7d/Head_Platon_Glyptothek_Munich_548.jpg){:.centered }
+![platon](https://upload.wikimedia.org/wikipedia/commons/7/7d/Head_Platon_Glyptothek_Munich_548.jpg){:.fixed-size }
+
+##### _(Huvud från romersk kopia av staty föreställande Platon, okänd konstnär, ca 347 f.Kr)_
 
 **Platon (427 - 347 f.Kr)** var en av Sokrates närmaste lärljungar och det är tydligt i hans dialoger att han håller minnet av sin läromästare högt. Med Platon systematiseras filosofin, här möter vi nästan alla de filosofiska frågor som filosofin sedan dess har ägnat sig åt. Några menar till och med att filosofin bara _”består av en serie fotnoter till Platon”_. Och enligt Nietzsche borde egentligen försokratikerna kallas förplatoniker då han ansåg Platon vara radikalt mer betydelsefull för filosofins utveckling än vad Sokrates var, vilken mest gjort sig känd för att figurera som huvudkaraktär i den förres dialoger. Sokrates skrev aldrig något verk själv utan hans lära har till stor del införlivats i idéhistorien genom hans roll i Platons dialoger. Detta har därför också medfört att urskiljandet av vem som egentligen talar i dialogerna - Platon eller Sokrates - nästintill har varit omöjligt att avgöra. En annan problematik är försöken till systematiserande av Platons dialoger. Eftersom Platon skrev sina texter uteslutande i dialogform blir också uttolkningen av vad som är menat som en utarbetad idé och vad som är menat som skönlitterär utfyllnad en svår balansgång för en nutida läsare.
 

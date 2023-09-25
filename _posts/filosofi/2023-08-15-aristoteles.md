@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Aristoteles, den torra vetenskapsmannen"
+title: "Aristoteles och vetenskapen"
 date: 2023-08-15 11:40:38 +0200
 categories: filosofi
 comments: true
 author: Patrik Nygren
 ---
 
-![aristoteles](https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg){:.centered }
+![aristoteles](https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg){:.fixed-size }
+
+##### _(Romersk kopia av bronstaty av Aristoteles, Lysippos, ca 330 f.Kr)_
 
 Under långa perioder har det västerländska samhället dominerats än av Platons lära, än av Aristoteles. _Aristoteles (384 - 322 f.Kr)_ var som ung en dedikerad lärljunge till Platon och i flera av hans ideér kan man därför se spår av hans gamla läromästare. Det är alltså inte fråga om oppositioner när man jämför de båda utan snarare om en viss överlappning mellan deras synsätt. Att döma av deras texter så skilde sig dock deras karaktärer åt i högre utsträckning. Medan Platon var mystikern, höglitterär och djup, var Aristoteles vetenskapsmannen, samvetsgrann och stringent. På grund av Aristoteles torra stil kan hans texter ofta te sig en aning mödosamma att läsa och kräver en viss ansträngning av läsaren.
 
