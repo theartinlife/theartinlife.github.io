@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
+@charset "utf-8";
 
 .about-container {
   display: flex;
@@ -27,3 +27,5 @@ img.fixed-size {
     width: 150px;
   }
 }
+
+@import "minima";
