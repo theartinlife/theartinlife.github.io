@@ -5,6 +5,7 @@ date: 2023-08-15 11:40:38 +0200
 categories: filosofi
 comments: true
 author: Patrik Nygren
+tags: [filosofi, idéhistoria]
 ---
 
 ![aristoteles](https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg){:.fixed-size }

@@ -5,6 +5,7 @@ date: 2023-09-13 11:40:38 +0200
 categories: filosofi
 comments: true
 author: Patrik Nygren
+tags: [filosofi, idéhistoria]
 ---
 
 ![alexander-den-stora](https://upload.wikimedia.org/wikipedia/commons/c/cb/AlexanderTheGreat_Bust.jpg){:.fixed-size }

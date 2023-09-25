@@ -5,6 +5,7 @@ date: 2023-09-23 11:40:38 +0200
 categories: filosofi
 comments: true
 author: Patrik Nygren
+tags: [filosofi, idéhistoria]
 ---
 
 I slutet av antiken har arvet från Sokrates, Platon och Aristoteles levt vidare genom olika läror. Framför allt har de olika hellenistiska filosofierna kunnat samexistera med såväl den grekiska som den romerska religionen, samt med de olika mysteriereligioner som frodades runt medelhavet. Men under medeltiden börjar det grekiska arvet nu att sakta tyna bort i betydelse för att ge plats åt kristendomen.

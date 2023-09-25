@@ -5,6 +5,7 @@ date: 2023-07-25 11:40:38 +0200
 categories: filosofi
 comments: true
 author: Patrik Nygren
+tags: [filosofi, idéhistoria]
 ---
 
 Det här är andra delen i en artikelserie över filosofihistorien. Här vänder jag mig mot Sokrates och Platon, en relation som påminner om att filosofi är en pågående process och inget som avstannar när en person försvunnit, precis som någons förruttnande kropp alltid blir näring för en annan varelse så att denna kan ta vid. En annan vacker aspekt av denna relation är framför allt den kärlek som Platon uppvisar i sina verk för Sokrates. I alla Platons dialoger figurerar Sokrates som en representant för det goda, undersökande och rättrådiga sinnet. Jag får intrycket att Platon inte anser att det är hans egna tankar han presenterar i sina texter utan Sokrates. Enligt min personliga åsikt så är dock Platon den stora giganten inte bara i den antika filosofin utan i filosofin överhuvudtaget. Hans skönlitterära fallenhet gör också hans texter blir en fröjd att läsa och jag kommer förmodligen framöver köpa en upplaga av hans "Staten" för att kanske så småningon skriva en recension av denna. Jag är mycket sugen på detta eftersom detta verkar vara "Boken" man ska ha läst inom filosofin att döma av vad dom lärda säger.
