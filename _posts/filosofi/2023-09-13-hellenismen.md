@@ -121,7 +121,7 @@ M.h.a dessa 2 typer av öde kunde det ”lata beviset” vederläggas. En männi
 
 En annan viktig fråga som Chrysippos ställde sig var om vi verkligen var ansvariga för våra begär?
 
-> ”Om allt sker på grund av ödet, så sker det på grund av dess föregående orsaker. Och om detta gäller för begäret, så gäller det också för dess följder, alltså också för bifallet… Härav följer att varken beröm eller tadel, varken belöningar eller straff är rättvisa”
+> Ur Stoiska fragment: ”Om allt sker på grund av ödet, så sker det på grund av dess föregående orsaker. Och om detta gäller för begäret, så gäller det också för dess följder, alltså också för bifallet… Härav följer att varken beröm eller tadel, varken belöningar eller straff är rättvisa”
 
 För att undgå komplikationen med denna extrema position skiljer Chrisippos på 2 typer av orsaker, _fullkomliga orsaker_ och _bidragande orsaker_. När vi talar om att allt sker pga föregående orsaker menar vi bidragande orsaker och när vi talar om ödet menar vi det så som det är styrt av fullkomliga orsaker. Så när vi talar om begär så kan det vara påverkat av bidragande orsaker som synintryck, lukter och smaker men inte av fullkomliga orsaker. Det är först när vi har agerat på ett visst sätt utifrån våra begär som orsaken blir fullkomlig och man kan tala om ödet. Härmed ges återigen människan tillbaka ett mått av självständighet och fri vilja. En liknelse som Chrysippos gör för att exemplifiera bidragande och fullkomliga orsaker är den vid en tunna som rullas ner för en kulle. Den bidragande orsaken är knuffen av tunnan över åsen, men den fullkomliga orsaken är tunnans utformning, om tunnan inte hade varit rund skulle den inte ha påverkats.
 
@@ -249,7 +249,7 @@ Ur det Ena emanerar först _Nous_, det allomfattande förnuftet, och ur förnuft
 
 Men även om materien är splittrad och bestående av en stökig och kortlivad mångfald är den fortfarande formad enligt det godas idé, det Ena. I den materiella världen står delarna i samklang med varandra och alla delarna är nödvändiga för att upprätthålla en enhet. Därför bär världen spår av det Ena som kan uppfattas bortom mångfalden. Att uppfatta det sköna i materian, denna enhet, är utgångspunkten för att slå in på vägen till själens upphöjelse över materian. Fullkomligt bortom den materiella världen tillbaka till det Ena vänds dock själen bara genom introspektion. Det Ena finns inom oss, tycks Plotinos mena, och det är genom att sluta ögonen och stilla tankarna och genom avvisandet av konceptet om vår individuella identitet som närvaron av det Ena kan erfaras. Det Ena är alltså inte ett tankeobjekt utan en närvaro som vi kan känna och förena oss med. Så här beskriver Plotinos den som är i kontakt med det Ena:
 
-> ”Liksom bortryckt eller fylld av det gudomliga står han där i ensam ro utan rörelse, utan att med sitt väsen böja av åt något håll eller kretsa kring sig själv, helt i vila och liksom bliven vila och ro.”
+> Ur Enneaderna: ”Liksom bortryckt eller fylld av det gudomliga står han där i ensam ro utan rörelse, utan att med sitt väsen böja av åt något håll eller kretsa kring sig själv, helt i vila och liksom bliven vila och ro.”
 
 Hos Plotinos saknas alltså den dualism som präglar Platons idélära, den materiella verkligheten kommer från det Ena och står inte opposition till den. Det Ena existerar inte i en annan värld bortom vår, utan finns här mitt bland oss. Det är alltså genom att gå inåt som individualiteten upphör och sanningen om det Ena uppenbarar sig.
 
@@ -261,18 +261,18 @@ I _Enneaderna_, Plotinos främsta verk, begrundar filosofen skönheten. Han bör
 
 Enligt Plotinos är elden det skönaste av alla sinnliga ting eftersom elden är den kropp som mest av allt liknar sin egna idé.
 
-> ”Den [Elden] strävar uppåt och är den finaste av kroppar, liksom den ju också står nära det okroppsliga; den ensam tar ej upp andra kroppar i sig, medan dessa tar upp elden.”
+> Ur Enneaderna: ”Den [Elden] strävar uppåt och är den finaste av kroppar, liksom den ju också står nära det okroppsliga; den ensam tar ej upp andra kroppar i sig, medan dessa tar upp elden.”
 
 #### Hur översinnliga kroppar blir sköna
 
 Vad beträffar de översinnliga kropparna besitter dom en skönhet som inte kan uppfattas av våra sinnen, bara av vårt förnuft, vår själ. Den översinnliga skönheten är långt viktigare för själen än den sinnliga eftersom denna skönhet står närmare det Ena.
 
-> ”Och man kan inte tala om dygdens [översinnlig skönhet] glans, om man aldrig ens föreställt sig hur skönt rättfärdighetens och självbehärskningens anlete är – varken aftonstjärnan eller morgonstjärnan är så skön.”
+> Ur Enneaderna: ”Och man kan inte tala om dygdens [översinnlig skönhet] glans, om man aldrig ens föreställt sig hur skönt rättfärdighetens och självbehärskningens anlete är – varken aftonstjärnan eller morgonstjärnan är så skön.”
 
 De människor som kan erfara denna skönhet bäst är de som Plotinos kallar de _”kärleksbegåvade”_, de som låter sig hänryckas av översinnliga former på samma sätt som människor i allmänhet låter sig hänryckas av en människas kropp när de älskar med någon.
 Dygden är visserligen skön att uppfatta hos andra men när en ”kärleksbegåvad” person upplever den hos sig själv blir effekten desto starkare för att denne då kommer det Ena närmare, och är alltså närmare den sanna verkligheten.
 
-> ”Och när ni ser er egen inre skönhet, vad är det då ni upplever? Och varför detta hänförda jubel, denna upprördhet, denna längtan att, sedan man vänt blicken från kroppen, vara samman med sig själv och koncentrera sig på sig själv?”
+> Ur Enneaderna: ”Och när ni ser er egen inre skönhet, vad är det då ni upplever? Och varför detta hänförda jubel, denna upprördhet, denna längtan att, sedan man vänt blicken från kroppen, vara samman med sig själv och koncentrera sig på sig själv?”
 
 Svaret, enligt Plotinos, är att de då kan _”se själen i sin självbehärskning”_ och _”sin lidelsefria höghet”_, vilket är människans sanna väsen. _”Den som ser det skall aldrig säga något annat än att det är det sant varande”_, skriver Plotinos.
 
@@ -280,8 +280,8 @@ Svaret, enligt Plotinos, är att de då kan _”se själen i sin självbehärskn
 
 Det fula däremot hos själen är föga förvånande sökandet efter enbart jordiska ting. Av detta blir själen snart småaktig, tygellös, orättfärdig och falsk. Själen är då inte längre fri att få vila i sig själv utan dras ständigt till det ytliga och materiella. Och som det blir omöjligt att känna igen en person som har blivit nedsänkt i gyttja blir en själ oigenkännlig som fäst sig för mycket vid det materiella. Om en ful själ åter ska bli ren måste den bli lämnad med sig själv och när den väl har blivit fri från det kroppsliga kan den åter bli ren igen. Detta är alltså den fullständiga självbehärskningen, enligt Plotinos, att inte ha någon gemenskap med det kroppsliga. Och för den som fulländar konsten i självbehärskning blir döden därför heller inget främmande. I döden kan ju själen återgå till att bli ren idé och förnuft och återigen tillhöra det gudomliga som är källan till dess skönhet. Ju närmare källan, det Ena, själen är desto mer gudalik blir den.
 
-> ”Skön betyder för själen att bli lik gud... Så måste vi åter stiga upp till det goda som varje själ längtar efter. Den som sett det, vet vad jag menar, när jag säger att det är skönhet... och vi når det när vi stiger upp till den högre världen, vänder oss helt till den och avkläder oss vad vi iklädde oss vid nedstigandet; så får vi genomgå reningar, avlägga de kläder de förut bar och gå fram nakna. Man får fortgå på denna väg till dess man vid uppstigandet kommit förbi allt som är främmande för gud, och med sitt eget själv allena skådar detta ena.”
+> Ur Enneaderna: ”Skön betyder för själen att bli lik gud... Så måste vi åter stiga upp till det goda som varje själ längtar efter. Den som sett det, vet vad jag menar, när jag säger att det är skönhet... och vi når det när vi stiger upp till den högre världen, vänder oss helt till den och avkläder oss vad vi iklädde oss vid nedstigandet; så får vi genomgå reningar, avlägga de kläder de förut bar och gå fram nakna. Man får fortgå på denna väg till dess man vid uppstigandet kommit förbi allt som är främmande för gud, och med sitt eget själv allena skådar detta ena.”
 
 När en person har kommit i kontakt med det Ena på detta sätt så känner den inte längre ett behov av jordisk och individuell skönhet. Då är kroppen överens med själen och söker inget annat utanför sig själv utan inser att den är det Ena:
 
-> ”Har du uppnått detta, ser du dig själv så och är du i renhet samman med dig själv, utan något hinder för att på denna väg bli en, helt och hållet dig själv, fri från inblandning av något annat... när du ser att du blivit detta, då har du redan blivit förmögen att se; du kan då lita på dig själv, du har redan stigit upp i höjden och behöver inte längre någon vägvisare; spänn då synen och se!”
+> Ur Enneaderna: ”Har du uppnått detta, ser du dig själv så och är du i renhet samman med dig själv, utan något hinder för att på denna väg bli en, helt och hållet dig själv, fri från inblandning av något annat... när du ser att du blivit detta, då har du redan blivit förmögen att se; du kan då lita på dig själv, du har redan stigit upp i höjden och behöver inte längre någon vägvisare; spänn då synen och se!”
