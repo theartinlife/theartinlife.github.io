@@ -146,7 +146,7 @@ Termerna kan vidare delas in i _kategorismatiska_ och _synkategorismatiska_ term
 
 2. _Enkel supposition_ sker när en term representerar ett allmänbegrepp. "Människa" kan t.ex supponera för begreppet människa.
 
-3. _Materiell supposition_ sker när en term representerar ordet eller tecket.
+3. _Materiell supposition_ sker när en term representerar ordet eller tecket, som i "människa är ett ord med åtta bokstäver".
 
 Enligt Ockham finns ingen universalia, inga allmänbegrepp, bara individer. Om vi säger "Sokrates är en människa" så supponerar alla termerna; "Sokrates" och "människa" för samma individuella person, Sokrates. Alltså om vi ska tala om verkligheten så kan vi endast tala med _personlig supposition_. Och genom att ta bort onödiga termer som inte betecknar något existerande ur ett argument så kan argument förtydligas, denna metod kom att kallas "Ockhams rakkniv". Denna metod har också kommit att bli en maxim inom vetenskapen som Ockham kom att formulera på följande sätt: "Det är fåfängt att åstadkomma med flera vad som kan åstadkommas med färre". Onödiga antaganden bör alltså "rakas" bort för att hålla förklaringen enkel och ren.
 
