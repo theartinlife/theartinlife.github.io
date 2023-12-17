@@ -8,13 +8,13 @@ author: Patrik Nygren
 tags: [essä, matematik]
 ---
 
-Inom matematiken finns en gren, **_Kategoriteori_**, som studerar olika generella matematiska strukturer eller mönster. Kategoriteori handlar mer specifikt om att kategorisera olika matematiska funktioner, som exempelvis addition, subtraktion, multiplikation och division. Om man betraktar dessa funktioner i mer generella termer uppträder de samtliga på samma sätt, nämligen att givet två tal som input ge tillbaka ett nytt tal som output, t.ex:
+Inom matematiken finns en gren, **_Kategoriteori_**, som studerar olika generella matematiska strukturer eller mönster. Kategoriteori handlar mer specifikt om att kategorisera olika matematiska funktioner, som exempelvis addition, subtraktion, multiplikation och division. Om man betraktar dessa funktioner i mer generella termer uppträder samtliga på samma sätt, nämligen, givna två tal som input ger de tillbaka ett nytt tal som output, t.ex:
 
 $$ 1 + 4 = 5 $$
 
 $$ 6 / 3 = 2 $$
 
-Inom Kategoriteori verkar dessa funktioner i förstone tillhöra samma kategori, nämligen den kategori av funktioner som tar objekt i en domän ($$C$$) som input och ger tillbaka objekt i samma domän ($$C$$) som output, $$C \rightarrow C$$, vilket i det här fallet skulle vara dom naturliga talen (i det här fallet är det fråga om 2 tal som input och 1 tal som output, men i Kategoriteori är saker som antal oviktiga detaljer)pilen mellan domänerna kallas _morfism_ och hänvisar till vad som är input och vad som är output. När vi har karaktäriserat funktionerna med samma gemensamma morfism kan vi fastställa om de verkligen tillhör samma kategori genom att betrakta om de också efterföljer samma lagar, i det här fallet _associativitet_
+Inom Kategoriteori säger man att dessa tillhör samma kategori, nämligen den kategori av funktioner som tar objekt i en domän ($$C$$) som input och ger tillbaka objekt i samma domän ($$C$$) som output, $$C \rightarrow C$$, vilket i det här fallet skulle vara dom naturliga talen (i det här fallet är det fråga om 2 naturliga tal som input och 1 naturligt tal som output, men i Kategoriteori är saker som antal och värde oviktiga detaljer). Pilen mellan domänerna kallas _morfism_ och hänvisar till vad som är input och vad som är output. När vi har karaktäriserat funktionerna med samma gemensamma morfism kan vi fastställa om de verkligen tillhör samma kategori genom att betrakta om de efterföljer samma lag, i det här fallet _associativitet_
 
 $$(a + b) + c = a + (b + c)$$
 
@@ -34,9 +34,9 @@ $$(3 * 4) * 7 = 3 * (4 * 7) = 84$$
 
 $$\text{men } (3 / 4) / 7 = 0.107; \text{ och } 3 / (4 / 7) = 5.25 $$
 
-Trots att division ytligt betraktad beskrivs med samma morfism som de övriga funktionerna lever uppenbarligen inte division helt upp till kraven på denna kategori. Divisionen måste alltså tillhöra en annan kategori.
+Trots att division ytligt betraktad beskrivs med samma morfism som de övriga funktionerna lever uppenbarligen inte division helt upp till kraven på denna kategori. Division måste alltså tillhöra en annan kategori.
 
-Men det finns förutom funktioner inom matematiken också strukturer, som exempelvis _"mängden"_. Om vi har ett tal, 19 t.ex, och lägger det inuti en mängd så behöver vi representera talet tillsammans med en notation för "mängd"; $$[ 19 ]$$. Poängen med en mängd är att vi kan tillföra fler tal till den, $$[ 19, 20, 21, \text{osv.. }]$$. Vi har alltså tillfört en struktur runt talen som har notationen $$[\text{ }]$$, denna stuktur ger oss nya förmågor så att vi kan behandla flera tal på samma gång. För att ge ett annat exempel på en struktur kan vi betrakta de _"imaginära"_ talen som använder sig av en reell dimension och en imaginär dimension. Den imaginära dimensionens syfte är att ge talen en större frihetsgrad. Imaginära tal är helt enkelt ett koordinatsystem. Genom att tillföra en extra dimension kan dessa tal röra sig i ett större plan än de naturliga.
+Förutom funktioner finns det inom matematiken också strukturer, som exempelvis _"mängden"_. Om vi har ett tal, 19 t.ex, och lägger det inuti en mängd så behöver vi representera talet tillsammans med en notation för "mängd"; $$[ 19 ]$$. Poängen med en mängd är att vi kan tillföra fler tal till den, $$[ 19, 20, 21, \text{osv.. }]$$. Vi har alltså tillfört en struktur runt talen som har notationen $$[\text{ }]$$, denna stuktur ger oss nya förmågor så att vi kan behandla flera tal på samma gång. För att ge ett annat konkret exempel på en struktur kan vi betrakta de _"imaginära"_ talen som använder sig av en reell dimension och en imaginär dimension. Den imaginära dimensionens syfte är att ge talen en större frihetsgrad. Imaginära tal är helt enkelt ett koordinatsystem. Genom att tillföra en extra dimension kan dessa tal röra sig över ett större plan än de naturliga.
 
 ![imagniärt tal](https://upload.wikimedia.org/wikipedia/commons/6/69/Complex_conjugate_picture.svg){:.fixed-size }
 
