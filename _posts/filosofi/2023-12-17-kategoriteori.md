@@ -16,8 +16,6 @@ $$ 6 / 3 = 2 $$
 
 Inom Kategoriteori säger man att dessa funktioner tillhör samma kategori, nämligen den kategori av funktioner som tar objekt i en domän ($$C$$) som input och ger tillbaka objekt i samma domän ($$C$$) som output, $$C \rightarrow C$$, vilket i det här fallet skulle vara dom naturliga talen (här är det fråga om 2 naturliga tal som input och 1 naturligt tal som output, men i Kategoriteori är saker som antal och värde oväsentliga detaljer). Pilen mellan domänerna kallas _morfism_ och hänvisar till vad som är input och vad som är output. När vi har karaktäriserat funktionerna med samma gemensamma morfism behöver vi försöka fastställa om de verkligen tillhör samma kategori genom att kontrollera om de efterföljer samma lag eller lagar, i det här fallet, om de efterföljer lagen om _associativitet_.
 
-**Associativitet**
-
 $$(a + b) + c = a + (b + c)$$
 
 $$(a - b) - c = a - (b - c)$$
