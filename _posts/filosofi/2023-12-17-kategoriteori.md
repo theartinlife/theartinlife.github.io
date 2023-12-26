@@ -70,7 +70,7 @@ $$(\text{arbetare 1} \textbf{ samarbetar med } \text{arbetare 2}) \textbf{ samar
 
 Om vi byter ut _arbetare 1_ med _kassör_, _arbetare 2_ med _säljare_ och _arbetare 3_ mot _säljchef_, ser vi att - även denna gång - är inte relationen associativ.
 
-$$(\text{kassör} \textbf{ samarbetar } \text{säljare}) \textbf{ samarbetar } \text{chef}\\= \text{kassör} \textbf{ samarbetar } (\text{säljare} \textbf{ omvårdar } \text{chef})$$
+$$(\text{kassör} \textbf{ samarbetar med } \text{säljare}) \textbf{ samarbetar med } \text{chef}\\= \text{kassör} \textbf{ samarbetar med } (\text{säljare} \textbf{ samarbetar med } \text{chef})$$
 
 En kassörs och säljares utbyte av varandra, så länge relationen är förtrolig, är att göra gemensam sak mot chefens eventuella exploatering av dom. Och detta utbyte är skiljer sig verkligen från det som sker mellan kassören och säljaren och säljchefen tillsammans.
 
